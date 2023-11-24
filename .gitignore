@@ -1,0 +1,16 @@
+.idea
+*.iml
+
+target
+
+spring.log*
+
+.DS_Store
+node_modules
+/dist
+
+package-lock.json
+
+
+release
+release.zip
